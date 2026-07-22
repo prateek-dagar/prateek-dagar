@@ -39,7 +39,7 @@
 ### 💼 Professional Background
 
 #### **Data Scientist / Software Engineer** | *RxLogix Corporation* (2022 – 2026)
-- Engineered intelligent document processing pipelines to extract and validate unstructured medical data and clinical records.
+- Engineered intelligent document processing pipelines to extract and validate structured, unstructured medical data and clinical records.
 - Migrated legacy microservices to AWS infrastructure, improving system availability and processing speeds.
 - Implemented Agentic AI frameworks and custom data mapping pipelines for pharmacovigilance operations.
 - Worked with high-volume database engines including Oracle and OpenSearch for optimized search and retrieval.
