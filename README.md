@@ -9,8 +9,7 @@
 - 🛠 **Core Expertise:** Python, Django, FastAPI, Machine Learning, Deep Learning, NLP & Agentic AI Frameworks.
 - 🩺 **Domain Experience:** Data Scientist & Software Engineer (ex-RxLogix), specialized in handling medical documentation, adverse event processing, and custom mapping solutions.
 - ☁️ **Infrastructure & Search:** Experienced in AWS microservices, Docker, CI/CD pipelines, and high-performance querying with Oracle and OpenSearch.
-- 🟢 **Open Source:** Active contributor to core Python document processing libraries (`fpdf2`, `py-pdf`).
-
+- 🟢 **Open Source:** Active contributor to Python open-source libraries.
 ---
 
 ### 🛠 Tech Stack & Tools
@@ -48,12 +47,13 @@
 
 ### 🟢 Open Source Contributions
 
-I actively contribute to core Python document processing & PDF infrastructure:
-
+I actively contribute to Python open-source libraries and developer tools:
+- **[gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog):** Contributed public API documentation enhancements and parameter type definitions ([PR](https://github.com/gorakhargosh/watchdog/pulls?q=is%3Apr+author%3Aprateek-dagar)).
 - **[py-pdf/fpdf2](https://github.com/py-pdf/fpdf2):** Contributed text parsing and structural rendering improvements ([View my PRs](https://github.com/py-pdf/fpdf2/pulls?q=is%3Apr+author%3Aprateek-dagar)).
-- **[py-pdf/pypdf](https://github.com/py-pdf/pypdf):** Contributed document extraction & parsing enhancements ([View my PRs](https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+author%3Aprateek-dagar)).
 - **[titipata/scipdf_parser](https://github.com/titipata/scipdf_parser):** Enhancing scientific PDF parsing and section extraction pipelines ([View my PRs](https://github.com/titipata/scipdf_parser/pulls?q=is%3Apr+author%3Aprateek-dagar)).
+<!-- - **[py-pdf/pypdf](https://github.com/py-pdf/pypdf):** Contributed document extraction & parsing enhancements ([View my PRs](https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+author%3Aprateek-dagar)).-->
 
+>👉[View all my public contributions across GitHub](https://github.com/pulls?q=is%3Apr+author%3Aprateek-dagar+is%3Apublic+-user%3Aprateek-dagar)
 ---
 
 ### 💻 Featured Architecture Projects
