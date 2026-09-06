@@ -1,13 +1,13 @@
 # Hi there, I'm Prateek Dagar 👋
 
-**Python Developer & Machine Learning Engineer** with ~4 years of professional experience (~46 months at RxLogix) building scalable microservices, intelligent document processing pipelines, and Agentic AI solutions for pharmacovigilance and healthcare workflows.
+**Python Developer & Machine Learning Engineer** with 4+ years of professional experience building scalable microservices, intelligent document processing pipelines, and Agentic AI solutions for pharmacovigilance and healthcare workflows.
 
 ---
 
 ### 🚀 About Me
 
 - 🛠 **Core Expertise:** Python, Django, FastAPI, Machine Learning, Deep Learning, NLP & Agentic AI Frameworks.
-- 🩺 **Domain Experience:** Data Scientist & Software Engineer (ex-RxLogix), specialized in handling medical documentation, adverse event processing, and custom mapping solutions.
+- 🩺 **Domain Experience:** Data Scientist & Software Engineer, specialized in handling medical documentation, adverse event processing, and custom mapping solutions.
 - ☁️ **Infrastructure & Search:** Experienced in AWS microservices, Docker, CI/CD pipelines, and high-performance querying with Oracle and OpenSearch.
 - 🟢 **Open Source:** Active contributor to Python open-source libraries.
 ---
