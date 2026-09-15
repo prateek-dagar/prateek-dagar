@@ -75,7 +75,7 @@ I actively contribute to Python open-source libraries and developer tools:
 
 ![Prateek's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=prateek-dagar&show_icons=true&count_private=true&hide_rank=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prateek-dagar&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=prateek-dagar&theme=radical&timezone=Asia/Kolkata)](https://git.io/streak-stats)
 
 </div>
 
