@@ -20,6 +20,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Sphinx](https://img.shields.io/badge/Sphinx-000000?style=for-the-badge&logo=sphinx&logoColor=white)
 
 **AI, NLP & Search**
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
@@ -51,7 +52,9 @@ I actively contribute to Python open-source libraries and developer tools:
 - **[gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog):** Contributed public API documentation enhancements and parameter type definitions ([View my PRs](https://github.com/gorakhargosh/watchdog/pulls?q=is%3Apr+author%3Aprateek-dagar)).
 - **[py-pdf/fpdf2](https://github.com/py-pdf/fpdf2):** Contributed text parsing and structural rendering improvements ([View my PRs](https://github.com/py-pdf/fpdf2/pulls?q=is%3Apr+author%3Aprateek-dagar)).
 - **[titipata/scipdf_parser](https://github.com/titipata/scipdf_parser):** Enhancing scientific PDF parsing and section extraction pipelines ([View my PRs](https://github.com/titipata/scipdf_parser/pulls?q=is%3Apr+author%3Aprateek-dagar)).
+- **[sphinx-mkdocs-migrate](https://github.com/prateek-dagar/sphinx-mkdocs-migrate):** Authored a CLI toolkit for migrating MkDocs documentation to Sphinx + MyST. <!--Used it to contribute doc migration to [nhairs/python-json-logger](https://github.com/nhairs/python-json-logger/pull/83).-->
 <!-- - **[py-pdf/pypdf](https://github.com/py-pdf/pypdf):** Contributed document extraction & parsing enhancements ([View my PRs](https://github.com/py-pdf/pypdf/pulls?q=is%3Apr+author%3Aprateek-dagar)).-->
+
 
 >👉[View all my public contributions across GitHub](https://github.com/pulls?q=is%3Apr+author%3Aprateek-dagar+is%3Apublic+-user%3Aprateek-dagar)
 ---
