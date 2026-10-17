@@ -6,8 +6,8 @@
 
 ### 🚀 About Me
 
-- 🛠 **Core Expertise:** Python, Django, FastAPI, Machine Learning, Deep Learning, NLP & Agentic AI Frameworks.
-- 🩺 **Domain Experience:** Data Scientist & Software Engineer, specialized in handling medical documentation, adverse event processing, and custom mapping solutions.
+- 🛠 **Core Expertise:** Python, Django, FastAPI, Machine Learning, Deep Learning, GenAI, NLP & Agentic AI Frameworks.
+- 🩺 **Domain Experience:** Data Scientist & Software Engineer, specialized in handling medical documents, adverse event processing, and custom mapping solutions.
 - ☁️ **Infrastructure & Search:** Experienced in AWS microservices, Docker, CI/CD pipelines, and high-performance querying with Oracle and OpenSearch.
 - 🟢 **Open Source:** Active contributor to Python open-source libraries.
 ---
